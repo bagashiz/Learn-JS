@@ -1,0 +1,19 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "Dicoding 'Belajar Dasar Pemrograman JavaScript' course",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 05_EnvironmentSetup/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagashiz/Learn-JS.git"
+  },
+  "author": "bagashiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagashiz/Learn-JS/issues"
+  },
+  "homepage": "https://github.com/bagashiz/Learn-JS#readme"
+}
