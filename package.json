@@ -4,7 +4,7 @@
   "description": "Dicoding 'Belajar Dasar Pemrograman JavaScript' course",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node 05_EnvironmentSetup/index.js"
   },
   "repository": {
