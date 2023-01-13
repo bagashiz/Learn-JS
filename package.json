@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/bagashiz/Learn-JS/issues"
   },
-  "homepage": "https://github.com/bagashiz/Learn-JS#readme"
+  "homepage": "https://github.com/bagashiz/Learn-JS#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
